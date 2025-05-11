@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋, I'm Eyad Elshaer</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h2 align="center">Hi 👋! My name is Eyad Elshaer, from Egypt</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyadelshaer&label=Profile%20views&color=0e75b6&style=flat" alt="eyadelshaer" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/eeelshaer" target="blank"><img src="https://img.shields.io/twitter/follow/eeelshaer?logo=twitter&style=for-the-badge" alt="eeelshaer" /></a> </p>
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB6OGtmOXM5bXZ1OGZpMXl1Nmh1YmNkN3I5aWVuN2M3OTNrZG9idiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCK7W8Qb52ifS/giphy.gif"  />
 
-- 🔭 I’m currently working on [Auto Organizer](https://github.com/EyadElshaer/Auto-Organizer)
+###
 
-- 🌱 I’m currently learning **TypeScript & Python**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eeelshaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eeelshaer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eyad elshaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyad elshaer" height="30" width="40" /></a>
-<a href="https://instagram.com/eelsha3er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eelsha3er" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=White&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://eg.linkedin.com/in/eyad-elshaer-747663294" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.paypal.com/paypalme/aymanelshaer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyadelshaer&show_icons=true&locale=en&layout=compact" alt="eyadelshaer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyadelshaer&show_icons=true&locale=en" alt="eyadelshaer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyadelshaer&" alt="eyadelshaer" /></p>
+###
